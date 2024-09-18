@@ -1,4 +1,10 @@
-#include "Pilha.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "estacionamento.h"
+
+
+#include "exemploPilha.h"
 
 int main(){
     Pilha p1, p2; //variavel pilha
