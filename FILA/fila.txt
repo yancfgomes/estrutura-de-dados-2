@@ -15,12 +15,12 @@ Operações básicas em uma fila (fonte: copilot):
 ====================================
 
 Criar as funções (fonte professor):
-- Iniciar
-- isEmpty
-- isFull
-- Inserir elementos (push)
-- Remover elementos (pop)
-- Verificar o valor na fila (peek)
+- Iniciar [✓]
+- isEmpty [✓]
+- isFull [✓]
+- Inserir elementos (push) [✓]
+- Remover elementos (pop) [✓]
+- Verificar o valor na fila (peek) [✓]
 
 Funções extras (opcionais):
 - quantidade de elementos
