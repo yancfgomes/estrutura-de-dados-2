@@ -1,3 +1,6 @@
+// nota: Este código foi escrito por IA
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
