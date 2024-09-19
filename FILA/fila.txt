@@ -1,0 +1,49 @@
+Filas 
+
+Uma fila é uma estrutura de dados linear que segue o princípio FIFO (First In, First Out), ou seja, 
+o primeiro elemento a entrar é o primeiro a sair. 
+Imagine uma fila de pessoas em um banco: a primeira pessoa a entrar na fila é a primeira a ser atendida.
+
+Operações básicas em uma fila (fonte: copilot):
+1. Enqueue: Adiciona um elemento ao final da fila.
+2. Dequeue: Remove o elemento do início da fila.
+3. Front: Retorna o elemento no início da fila sem removê-lo.
+4. Rear: Retorna o elemento no final da fila sem removê-lo.
+5. IsEmpty: Verifica se a fila está vazia.
+6. Size: Retorna o número de elementos na fila.
+
+====================================
+
+Criar as funções (fonte professor):
+- Iniciar
+- isEmpty
+- isFull
+- Inserir elementos (push)
+- Remover elementos (pop)
+- Verificar o valor na fila (peek)
+
+Funções extras (opcionais):
+- quantidade de elementos
+- listar tudo
+
+====================================
+
+Aplicações práticas de filas:
+
+1. Gerenciamento de tarefas: Em sistemas operacionais, filas são usadas para gerenciar tarefas e processos. 
+O escalonador de processos usa filas para determinar a ordem de execução dos processos.
+
+2. Impressão: Em sistemas de impressão, os trabalhos de impressão são colocados em uma fila e processados na ordem em que foram recebidos.
+
+3. Redes de computadores: Filas são usadas em roteadores e switches para gerenciar pacotes de dados. Os pacotes são enfileirados e processados na ordem de chegada.
+
+4. Sistemas de atendimento: Em call centers, as chamadas são enfileiradas e atendidas na ordem em que foram recebidas.
+
+5. Aplicações web: Em servidores web, as requisições HTTP são enfileiradas e processadas na ordem de chegada.
+
+6. Algoritmos de busca em largura (BFS): Em grafos, a busca em largura utiliza uma fila para explorar os vértices na ordem correta.
+
+7. Simulações: Em simulações de eventos discretos, filas são usadas para modelar e gerenciar eventos que ocorrem em ordem cronológica.
+
+Esses são apenas alguns exemplos de como filas são utilizadas em diversas áreas da computação e tecnologia.
+
