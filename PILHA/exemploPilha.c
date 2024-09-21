@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #define TAMANHO_PILHA 4
+
 typedef struct Pilha{
 	int dados[TAMANHO_PILHA];//vetor
 	int topo;//controle do topo da pilha
